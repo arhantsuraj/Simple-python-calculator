@@ -1,5 +1,19 @@
 # Simple-python-calculator
 A basic calculator built using Python. Supports addition, subtraction, multiplication, and division with proper error handling for invalid input and division by zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def calculator():
     print("Enter 1 if you want to add numbers")
     print("Enter 2 if you want to subtract numbers")
